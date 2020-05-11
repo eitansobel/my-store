@@ -15,6 +15,7 @@ import { CartComponent } from './cart/cart.component';
 
 import { HttpClientModule } from '@angular/common/http';
 import { ShippingComponent } from './shipping/shipping.component';
+import { AaaComponent } from './aaa/aaa.component';
 
 
 @NgModule({
@@ -37,6 +38,7 @@ import { ShippingComponent } from './shipping/shipping.component';
     ProductDetailsComponent,
     CartComponent,
     ShippingComponent,
+    AaaComponent,
   ],
   bootstrap: [
     AppComponent
