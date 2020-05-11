@@ -38,7 +38,6 @@ import { AaaComponent } from './aaa/aaa.component';
     ProductDetailsComponent,
     CartComponent,
     ShippingComponent,
-    AaaComponent,
   ],
   bootstrap: [
     AppComponent
